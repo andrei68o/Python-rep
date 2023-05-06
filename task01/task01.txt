@@ -1,0 +1,2 @@
+Numarul maxim de aparitii al cuvantului Lorem este de 475 ori 
+Dimensiunea fisierului ce contine numarul maxim de aparitii al cuvantului Lorem este de 199973 bytes
